@@ -1,4 +1,8 @@
 Commands :
+
 To install angular: npm i -g @angular/cli
-To create project : ng new <project-name>
-To run project.   : ng serve  ( should be in project folder )
+To create project : ng new < project - name >
+To run project.   : ng serve                       ( should be in project folder )
+To create component: ng g c <component - name >    ( g: generate c: component )
+To generate Service: ng g s <service - name >
+
